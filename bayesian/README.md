@@ -1,4 +1,7 @@
 
+### Stat 260/CS 294 Bayesian Modeling and Inference / Prof. Michael Jordan 
+- https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/
+
 ### Bayesian Linear Regression Tutorial
 - https://zjost.github.io/bayesian-linear-regression/
 
