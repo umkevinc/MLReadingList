@@ -7,6 +7,7 @@
 
 ### Probabilistic programming in Python using PyMC3 
 - https://peerj.com/articles/cs-55/
+- https://peerj.com/articles/cs-55.pdf
 
 ### Bayesian Linear Regression Models with PyMC3 
 - https://www.quantstart.com/articles/Bayesian-Linear-Regression-Models-with-PyMC3
